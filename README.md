@@ -18,7 +18,9 @@ INPUT
 
 The first line of the input will contain T, number of test cases. For each test
 case, there will be a, s shuffled string, on a separate line.
+
 1 <= T <= 100
+
 1 <= s.length <= 100000
 
 OUTPUT
@@ -34,10 +36,14 @@ If a shuffled string contains only zeros, you should output “0”.
 Sample Input
 
 2
+
 “ttnrwoooeeefurh”
+
 “ewtooetzrowon”
+
 
 Sample output
 
 1234
+
 1022
